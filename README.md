@@ -36,7 +36,7 @@ I am a Front End developer from Nigeria :nigeria:
 
 - 💞️ I’m looking to collaborate on Data Science and Cybersecurity.
 
-- :zap: In my free time, I play video games, listen to podcasts  and read tech articles.
+
 
 - :mailbox:How to reach me: :email: gnkwa@outlook.com
 
